@@ -93,9 +93,9 @@ There are two major parts to TheSTRAT
 ## Social Media
 
 ### Youtube
-https://www.youtube.com/user/smithsintheblack
-https://www.youtube.com/user/ssabatino84
-https://www.youtube.com/channel/UCYllJ4eRU4wDVSbZ9pHIJKA
+* https://www.youtube.com/user/smithsintheblack
+* https://www.youtube.com/user/ssabatino84
+* https://www.youtube.com/channel/UCYllJ4eRU4wDVSbZ9pHIJKA
 
 ### Twitter
 * @RobInTheBlack is the creator 	
