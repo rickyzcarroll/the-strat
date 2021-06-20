@@ -28,8 +28,6 @@ Broadening Formations - The emergence of Directional Bars and Outside Bars creat
 Inside Bars - Inside Bars are the key decision point when the market reaches equilibrium and must decide where prices are going in the immediate future.
 
 # Detail
-
-# Help
 ## Cheat Sheets
 #### STRAT Cheat Sheet1
 ![StratCheatSheet1](docs/StratCheatSheet1.jpg)
@@ -42,15 +40,24 @@ Inside Bars - Inside Bars are the key decision point when the market reaches equ
 
 
 ## Acronyms and Terms
-* AH: After Hours - stock trading after the market closes 4PM EST
-* PM: PreMarket - stock trading before the market opens 9:30AM EST
-* LOD: Low of Day - the low stock price of the day
-* NHOD: New High of Day - stock made a new high price of the day
-* ATR: Average True Range - volatility indicator, from the 14-day simple moving average of a series of true range indicators using highs and lows
-* EOD: End of Day - end of the stock trading day 4PM EST
-* EPS: Earnings Per Share - a company's earnings per share outstanding
-* MM: Market Maker - company or an individual that quotes both a buy and a sell price, hoping to make a profit on the bid–ask spread
-* PDT: Pattern Day Trader - traders who trade 4+ day trades over the span of 5 business days on a margin account get their account flagged with this
+* AH: After Hours 
+  * Stock trading after the market closes 4PM EST
+* PM: PreMarket 
+  * Stock trading before the market opens 9:30AM EST
+* LOD: Low of Day 
+  * The low stock price of the day
+* NHOD: New High of Day 
+  * Stock made a new high price of the day
+* ATR: Average True Range 
+  * Volatility indicator, from the 14-day simple moving average of a series of true range indicators using highs and lows
+* EOD: End of Day 
+  * End of the stock trading day 4PM EST
+* EPS: Earnings Per Share 
+  * A company's earnings per share outstanding
+* MM: Market Maker 
+  * Company or an individual that quotes both a buy and a sell price, hoping to make a profit on the bid–ask spread
+* PDT: Pattern Day Trader 
+  * Traders who trade 4+ day trades over the span of 5 business days on a margin account get their account flagged with this
 * WW: Worth Watching - keep an eye on a this stock
 * ORB: Opening Range Break - when a price breaks above or below the previous candle high or low from the open, used on 15, 30 or 60 mins from open
 * ORH: Opening Range High - the high price of a stock from the opening range (15, 30 or 60 mins from market open), monitored to see when it "breaks"
