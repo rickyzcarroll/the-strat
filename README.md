@@ -71,23 +71,17 @@ Inside Bars - Inside Bars are the key decision point when the market reaches equ
 * 60'r: 1 hour candle
 * ETH: extended trading hours
 * APTR: Average Percentage True Range - indicator to measure the volatility by percentage of a stock with price being neutral
-
-
-
-
 * 2-2-2: multiple "2" outside bars in a row - aggresive pattern that a trend is continuing 
 
 
-## Links and Tools
+## Social Media
 
-### Social Media
-
-#### Youtube
+### Youtube
 https://www.youtube.com/user/smithsintheblack
 https://www.youtube.com/user/ssabatino84
 https://www.youtube.com/channel/UCYllJ4eRU4wDVSbZ9pHIJKA
 
-#### Twitter
+### Twitter
 * @RobInTheBlack is the creator 	
 * @LevJampolsky
 * @AlexsOptions 	
@@ -109,16 +103,7 @@ https://www.youtube.com/channel/UCYllJ4eRU4wDVSbZ9pHIJKA
 * @toddjostendorf 		
 * @ElaineBenes99 
 
-
-### Scripts
-* TD Ameritrade Think of Swim Scripts
-  * https://usethinkscript.com/threads/rob-smiths-the-strat-indicator-for-thinkorswim.3312/
-* Trading View Scripts
-  *  Just search for The Strat
-  *  https://www.tradingview.com/script/0WOo54ab-Candle-Type-The-Strat/
-  *  https://www.tradingview.com/script/idDydr1G-TheStratHelper/
-  *  https://www.tradingview.com/script/9QtwuoHf-Timeframe-Continuity/
-
+## Links 
 
 ### News
 * CNBC - premarket
@@ -137,8 +122,22 @@ https://www.youtube.com/channel/UCYllJ4eRU4wDVSbZ9pHIJKA
   * https://www.tipranks.com/
 * Short Interest
   * https://www.marketwatch.com/tools/screener/short-interest
+* Finviz Sector Tool
+  * https://finviz.com/groups.ashx
 
-### Tools
+
+## Tools
+
+### Scripts
+* TD Ameritrade Think of Swim Scripts
+  * https://usethinkscript.com/threads/rob-smiths-the-strat-indicator-for-thinkorswim.3312/
+* Trading View Scripts
+  *  Just search for The Strat
+  *  https://www.tradingview.com/script/0WOo54ab-Candle-Type-The-Strat/
+  *  https://www.tradingview.com/script/idDydr1G-TheStratHelper/
+  *  https://www.tradingview.com/script/9QtwuoHf-Timeframe-Continuity/
+
+### Misc
 * Good explanation of TheStrat
   * https://www.newtraderu.com/2019/02/13/what-do-we-know-to-be-true-about-price-action/
 * StratFlix - great list of strat videos
@@ -154,8 +153,6 @@ https://www.youtube.com/channel/UCYllJ4eRU4wDVSbZ9pHIJKA
   * https://ninjatrader.com/
 * Market / Timeframe Alerts
   * http://mindtheflip.com/#
-* Finviz Sector Tool
-  * https://finviz.com/groups.ashx
 
 ### Exchanges
 * TD Ameritrade
