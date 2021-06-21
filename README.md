@@ -88,6 +88,7 @@ There are two major parts to TheSTRAT
 * ETH: extended trading hours
 * APTR: Average Percentage True Range - indicator to measure the volatility by percentage of a stock with price being neutral
 * 2-2-2: multiple "2" outside bars in a row - aggresive pattern that a trend is continuing 
+* DTL: Down trend line (magic lines)
 
 
 ## Social Media
