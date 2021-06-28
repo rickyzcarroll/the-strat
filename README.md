@@ -131,6 +131,10 @@ There are two major parts to TheSTRAT
   * https://research.investors.com/economic-calendar/
 * Upcoming Earnings
   * https://www.earningswhispers.com/calendar
+* Blog
+  * https://acquirersmultiple.com/blog/
+* Newsletter
+  * https://litquidity.co/pages/newsletter
 
 ### Analysis
 * Marketwatch: upgrades & downgrades
