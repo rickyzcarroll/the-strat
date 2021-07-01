@@ -10,31 +10,59 @@ Before beginning you have to have a basic understanding of candlesticks
 There are two major parts to TheSTRAT
 ### Candle / Pricing Action
   * 1 Candle
-    * Names: 1 Candle / Inside Bar / Inside Action / Consolidation / Sideways
-    * Technical: occur when the current candle falls completely within the prior candle
-    * Meaning: balance, equilibrium, buyers and sellers agree on price, no one is in control, trying to determine where price is going next
-    * Detail: never trade a one bar, wait for the consolidation to stop then it's time to get into a trade
+    * Names: 
+      * 1 Candle / Inside Bar / Inside Action / Consolidation / Sideways
+    * Technical:
+      * Occur when the current candle falls completely within the prior candle
+    * Meaning:
+      * Balance, equilibrium, buyers and sellers agree on price, no one is in control, trying to determine where price is going next
+    * Detail:
+      * Never trade a one bar, wait for the consolidation to stop then it's time to get into a trade
+    * Example
+      * ![OneBar](docs/OneBar.jpg)
   * 2 Candle
-    * Names: 2 Candle / Directional Bar / 2 Down / 2 Up
-    * Technical: occur when the current candle takes out one side of the prior candle
-      * A 2 down means it took out the previous candle's low, but failed to take out the high
-      * A 2 up means it took out the previous candle's high, but failed to take out the low
-    * Meaning: sellers are selling it down or buyers are buying it up but not both, a 2 can turn into a 3, but never a 1 
-    * Action: the market trades in the direction of the most 2's, but only trade 2's with continuation
+    * Names: 
+      * 2 Candle / Directional Bar / 2 Down / 2 Up
+    * Technical: 
+      * Occur when the current candle takes out one side of the prior candle
+        * A 2 down means it took out the previous candle's low, but failed to take out the high
+        * A 2 up means it took out the previous candle's high, but failed to take out the low
+    * Meaning: 
+      * Sellers are selling it down or buyers are buying it up but not both, a 2 can turn into a 3, but never a 1 
+    * Action: 
+      * The market trades in the direction of the most 2's, but only trade 2's with continuation
+    * Example: 
+      * ![TwoUpBar](docs/TwoUpBar.jpg) ![TwoDownBar](docs/TwoDownBar.jpg)
   * 3 Candle
-    * Names: 3 Candle / Outside Bar / Discovery Candle / Mother Bar
-    * Technical: occur when the current candle takes out both sides of the prior candle
-    * Meaning: price discovery starting over, buyers willing to buy it up, sellers willing to buy it down, choppiness
-    * Action: never trade a mother bar, price discovery is happening, wait for further confirmation one way or anther
+    * Names: 
+      * 3 Candle / Outside Bar / Discovery Candle / Mother Bar
+    * Technical: 
+      * Occur when the current candle takes out both sides of the prior candle
+    * Meaning: 
+      * Price discovery starting over, buyers willing to buy it up, sellers willing to buy it down, choppiness
+    * Action: 
+      * Never trade a mother bar, price discovery is happening, wait for further confirmation one way or anther
+    * Example:
+      * ![StratCheatSheet1](docs/ThreeBar.jpg)
 ### Other Factors
 * Time Frame Continuity
   * Price direction is best determined when looking at multiple time frames rather than lagging indicators or moving averages
   * When all time frames point in the same direction in either direction, or Full Time Frame Continuity, is the ideal trading situation
+  * Example: 
+    * ![StratCheatSheet1](docs/FTC_Up.jpg) ![StratCheatSheet1](docs/FTC_Down.jpg)
 * Broadening Formations 
+  * Simplest explanation is = it's a compound 3 bar
+    * Lower lows and higher highs
+    * Can draw this anywhere on any time line
+    * Just pick a high, draw the line to a higher high
+    * Pick a low, draw a line to a lower low
+    * Bars should be more FLAT than not, otherwise mostly inside action (which is fine, but if you are looking for trends start flatter)
   * Increasing price volatility and diagrammed as two diverging trend lines, one rising and one falling
   * It usually occurs after a significant rise, or fall, in pricing action
   * It is identified on a chart by a series of higher pivot highs and lower pivot lows.
   * Directional bars and outside bars that fit into a triangle and ultimately lead to reversals or expansions and present trading opportunities
+  * Picture: 
+    * ![StratCheatSheet1](docs/BF_Sample.jpg) 
 
 # Detail
 ## Cheat Sheets
