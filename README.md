@@ -4,6 +4,7 @@ All things strat related for stock trading, a methodology created by Rob Smith. 
 Want to contribute?  Let me know ask for collaborator request.  Twitter @rickyzane85
 
 # Overview
+------
 TheSTRAT is a trading method developed by Rob Smith (@RobInTheBlack).  
 
 Before beginning you have to have a basic understanding of candlesticks 
@@ -62,9 +63,41 @@ There are two major parts to TheSTRAT
   * It is identified on a chart by a series of higher pivot highs and lower pivot lows.
   * Directional bars and outside bars that fit into a triangle and ultimately lead to reversals or expansions and present trading opportunities
   * Picture: 
-    * ![StratCheatSheet1](docs/BF_Sample.jpg) 
+    * ![StratCheatSheet1](docs/BF_Sample.jpg)
+### Actionable Signals
+* Hammer
+  * Candle that looks like a "hammer"
+  * Little to no top wick, open and close are very close to the top of the wick, 75% of the candle is mostly wick at the bottom
+  * Action: 
+    * Entry as soon as the next candle breaks above the top, or top, wick of the previous hammer candle
+  * Picture:
+    *  ![StratCheatSheet1](docs/Hammer.JPG)
+* Shooter / Shooting Star
+  * Candle that looks like a "shooter" / upside down hammer
+  * Little to no bottom wick, open and close are very close to the bottom of the wick, 75% of the candle is mostly wick at the top
+  * Action: 
+    * Entry as soon as the next candle breaks below the bottom, or bottom wick, of the previous shooter candle
+  * Picture: 
+    * ![StratCheatSheet1](docs/Shooter.JPG)
+* Inside Bar
+  * Inside bar (explained above)
+  * Action: 
+    * After price is done consolidating it will break up or down, take the break at the top or the bottom of the previous inside candle depending on which way it goes  
+### Misc
+* PMG - Pivot Machine Gun
+  * A very fast moving upwards or downwards candles taking out previous highs or previous lows
+  * As the prior candles are "taken out" it causes those investors to go the other way, reinforcing the direction of the bar even more taking out even more highs or lows
+  * Picture: 
+    * ![StratCheatSheet1](docs/PMG.JPG)
+* TTO - Triangle They Out
+  * Inside action on a larger timeframe
+  * As consolidation is happening, things will get "tighter" toward a point and eventually break out up or down and go fast
+  * Picture: 
+    * ![StratCheatSheet1](docs/TTO.JPG)
+
 
 # Detail
+------
 ## Cheat Sheets
 #### STRAT Cheat Sheet1
 ![StratCheatSheet1](docs/StratCheatSheet1.jpg)
@@ -77,50 +110,55 @@ There are two major parts to TheSTRAT
 
 
 ## Acronyms and Terms
-* AH: After Hours 
-  * Stock trading after the market closes 4PM EST
-* PM: PreMarket 
-  * Stock trading before the market opens 9:30AM EST
-* LOD: Low of Day 
-  * The low stock price of the day
-* NHOD: New High of Day 
-  * Stock made a new high price of the day
-* ATR: Average True Range 
-  * Volatility indicator, from the 14-day simple moving average of a series of true range indicators using highs and lows
-* EOD: End of Day 
-  * End of the stock trading day 4PM EST
-* EPS: Earnings Per Share 
-  * A company's earnings per share outstanding
-* MM: Market Maker 
-  * Company or an individual that quotes both a buy and a sell price, hoping to make a profit on the bid–ask spread
-* PDT: Pattern Day Trader 
-  * Traders who trade 4+ day trades over the span of 5 business days on a margin account get their account flagged with this
-* WW: Worth Watching - keep an eye on a this stock
-* ORB: Opening Range Break - when a price breaks above or below the previous candle high or low from the open, used on 15, 30 or 60 mins from open
-* ORH: Opening Range High - the high price of a stock from the opening range (15, 30 or 60 mins from market open), monitored to see when it "breaks"
-* ORL: Opening Range Low - the low price of a stock from the opening range (15, 30 or 60 mins from market open), monitored to see when it "breaks"
-* VWAP: Volume Weighted Average Price - statistic used by traders to determine what the average price is based on both price and volume
-* SMA: Simple Moving Average - moving average calculated by adding recent prices and then dividing that figure by the number of time periods
-* EMA: Exponential moving Average - type of moving average that places a greater weight and significance on the most recent data points
-* MAG: Magnitude - how far a price run is
-* BF: Broadening Formation
-* MTFA: Multiple Time Frame Analysis
-* AS: Actionable Signal
-* FTC: Full Time Frame Continuity
-* The Flip: New candle
-* TTO: Triangle, They Out (corrective pullback/activity
-* 5'r: 5 min candle
-* 15'r: 15 min candle
-* ER: Exhaustion Risk - 
-* 60'r: 1 hour candle
-* ETH: extended trading hours
-* APTR: Average Percentage True Range - indicator to measure the volatility by percentage of a stock with price being neutral
-* 2-2-2: multiple "2" outside bars in a row - aggresive pattern that a trend is continuing 
-* DTL: Down trend line (magic lines)
+|TERM     |MEANING                                       |DESCRIPTION                                                                                                             |
+|---------|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+|15'r/15er|15 min Candle                                 |Candle on 15 min interval                                                                                               |
+|5'r/5er  |5 min Candle                                  |Candle on 5 min interval                                                                                                |
+|60'r/60er|60 Min Candle                                 |Candle on 60 min interval                                                                                               |
+|AH       |After Hours                                   |Stock trading after the market closes 4PM EST                                                                           |
+|APTR     |Average Percentage True Range                 |indicator to measure the volatility by percentage of a stock with price being neutral                                   |
+|AS       |Actionable Signal                             |A "signal" to take an action                                                                                            |
+|ATR      |Average True Range                            |Volatility indicator -  a wedge or triangle shape of the recent candles                                                 |
+|BF       |Broadening Formation                          |A compound 3 bar - higher highs - lower lows - subjectively drawn                                                       |
+|DTL      |Down trend line (magic lines)                 |Trending down on the magic broadening formation trendline                                                               |
+|EMA      |Exponential moving Average                    |type of moving average that places a greater weight and significance on the most recent data points                     |
+|EOD      |End of Day                                    |End of the stock trading day 4PM EST                                                                                    |
+|EPS      |Earnings Per Share                            |A company's earnings per share outstanding                                                                              |
+|ER       |Exhaustion Risk                               |Reached magnitude or price target or right at broadening formation line                                                 |
+|ETH      |Extended trading hours                        |Trading that occures after the market close 4PM                                                                         |
+|FTC/FTFC |Full Time Frame Continuity                    |All time frames "match" - they are all up or down                                                                       |
+|HAMMER   |Candle that looks like a hammer or T          |Actionable signal to a move upward                                                                                      |
+|HCS      |Hammer Counter Shooter                        |Hammer that counters/turns into a shooter                                                                               |
+|HOD      |High of Day                                   |The high stock price of the day                                                                                         |
+|ID       |Inside Day                                    |Whole day is inside candle from prior day                                                                               |
+|IW       |Inside Week                                   |Whole week is inside candle from prior week                                                                             |
+|LOD      |Low of Day                                    |The low stock price of the day                                                                                          |
+|MAG      |Magnitude                                     |How far a price run is or the price target                                                                              |
+|MM       |Market Maker                                  |Company or an individual that quotes both a buy and a sell price hoping to make a profit on the bid–ask spread          |
+|MOMO     |Momentum                                      |Usually momentum in a direction                                                                                         |
+|MTFA     |Multiple Time Frame Analysis                  |Look at more than one interval                                                                                          |
+|MTG      |Mind The Gap                                  |Rob Smith saying look for the GAP on these it might fill                                                                |
+|NATH     |New All Time High                             |Stock made a new all time high                                                                                          |
+|NHOD     |New High of Day                               |A new high stock price of the day                                                                                       |
+|NLOD     |Low of Day                                    |A new low stock price of the day                                                                                        |
+|ORB      |Opening Range Break                           |when a price breaks above or below the previous candle high or low from the open used on 15, 30, or 60 mins from open   |
+|ORH      |Opening Range High                            |the high price of a stock from the opening range 15/40/60 mins from open breaking to the upside                         |
+|ORL      |Opening Range Low                             |the low price of a stock from the opening range 15/30/60 mins from open breaking to the downside                        |
+|PDT      |Pattern Day Trader                            |Traders who trade 4+ day trades over the span of 5 business days on a margin account get their account flagged with this|
+|PM       |PreMarket                                     |Stock trading before the market opens 9:30AM EST                                                                        |
+|PMG      |Pivot Machine Gun                             |Trend pivots the other way taking out several highs or lows of other candles                                            |
+|SHOOTER  |Candle that looks like a gun or upside down T |Actionable signal to a move downward                                                                                    |
+|SMA      |Simple Moving Average                         |moving average calculated by adding recent prices and then dividing that figure by the number of time periods           |
+|The Flip |New candle                                    |Flip of the time interval to produce a new candle                                                                       |
+|TTO      |Triangle They Out                             |corrective pullback/activity - a wedge or triangle shape of the recent candles                                          |
+|VWAP     |Volume Weighted Average Price                 |statistic used by traders to determine what the average price is based on both price and volume                         |
+|WW       |Worth Watching                                |Keep an eye on a this stock                                                                                             |
+|IN FORCE |A method/strategy is in force                 |Above the reversal / continuation entry to the upside and below the reversal / continuation entry to the downside       |
+|LOTTO    |Lottery Ticket                                |Gamble play, risky but very rewarding, usually a fast expiry                                                            |
 
 
 ## Social Media
-
+-----
 ### Youtube
 * https://www.youtube.com/user/smithsintheblack
 * https://www.youtube.com/user/ssabatino84
