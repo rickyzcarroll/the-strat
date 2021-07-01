@@ -220,9 +220,12 @@ There are two major parts to TheSTRAT
   * https://usethinkscript.com/threads/rob-smiths-the-strat-indicator-for-thinkorswim.3312/
 * Trading View Scripts
   *  Just search for The Strat
-  *  https://www.tradingview.com/script/0WOo54ab-Candle-Type-The-Strat/
-  *  https://www.tradingview.com/script/idDydr1G-TheStratHelper/
-  *  https://www.tradingview.com/script/9QtwuoHf-Timeframe-Continuity/
+  *  My personal script for free - actionable signals, colors, strategies, work in progress
+     *  https://www.tradingview.com/script/Xrm3s2Kt-The-Strat-Assistant-Candles-Colors-Strategy-RZC/
+  *  Others
+     *  https://www.tradingview.com/script/0WOo54ab-Candle-Type-The-Strat/
+     *  https://www.tradingview.com/script/idDydr1G-TheStratHelper/
+     *  https://www.tradingview.com/script/9QtwuoHf-Timeframe-Continuity/
 
 ### Misc
 * Good explanation of TheStrat
