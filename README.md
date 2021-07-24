@@ -1,5 +1,5 @@
 # The STRAT
-All things strat related for stock trading, a methodology created by Rob Smith.  Knowledge should be collaborative and shared, not behind a paid wall.  Definitely a work in progress.  
+All things strat related for stock trading, a methodology created by Rob Smith.  Knowledge should be collaborative and shared, not behind a paid wall.  Definitely a work in progress.  Not financial advice.  
 
 Want to contribute?  Let me know ask for collaborator request.  Twitter @rickyzane85
 
