@@ -166,6 +166,7 @@ Before beginning you have to have a basic understanding of candlesticks.  Candle
 |ER       |Exhaustion Risk                               |Reached magnitude or price target or right at broadening formation line                                                 |
 |ETH      |Extended trading hours                        |Trading that occures after the market close 4PM                                                                         |
 |FTC/FTFC |Full Time Frame Continuity                    |All time frames "match" - they are all up or down                                                                       |
+|GAP      |A gap in stock price (missing candles         |A stock opens and GAPS up or down and there is no fill in between.  Missing by or sales may lead to opportunities for that gap to "fill" quickly when things reverse.                                                                         |
 |HAMMER   |Candle that looks like a hammer or T          |Actionable signal to a move upward                                                                                      |
 |HCS      |Hammer Counter Shooter                        |Hammer that counters/turns into a shooter                                                                               |
 |HOD      |High of Day                                   |The high stock price of the day                                                                                         |
