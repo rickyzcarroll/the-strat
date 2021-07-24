@@ -3,13 +3,48 @@ All things strat related for stock trading, a methodology created by Rob Smith. 
 
 Want to contribute?  Let me know ask for collaborator request.  Twitter @rickyzane85
 
+# Table of Contents
+------
+- [Overview](#overview)
+    + [Candlestick Overview](#candlestick-overview)
+    + [STRAT PART 1 - Candles and Pricing Action](#strat-part-1---candles-and-pricing-action)
+    + [STRAT PART 2 - Other Factors](#strat-part-2---other-factors)
+    + [START PART 3 - Actionable Signals](#start-part-3---actionable-signals)
+    + [STRAT PART 4 - Misc](#strat-part-4---misc)
+- [Detail](#detail)
+  * [Cheat Sheets](#cheat-sheets)
+  * [Acronyms and Terms](#acronyms-and-terms)
+  * [Social Media](#social-media)
+  * [Links](#links)
+  * [Tools](#tools)
+
+
 # Overview
 ------
 TheSTRAT is a trading method developed by Rob Smith (@RobInTheBlack).  
 
-Before beginning you have to have a basic understanding of candlesticks 
-There are two major parts to TheSTRAT
-### Candle / Pricing Action
+### Candlestick Overview
+Before beginning you have to have a basic understanding of candlesticks.  Candle sticks have 5 basic parts.  
+* WICKS
+  * 1 - Top wick / high / very top of the candle
+    * The highest price the stock trading during the given time frame of the candlestick
+  * 2 - Bottom wick / low / very bottom of the candle
+    * The lowest price the stock trading during the given time frame of the candlestick
+* FILL
+  * 3 - Open
+    * The price of the stock at the open of the given time frame (top or bottom of the fill depending on the color, more below)
+  * 4 - Close
+    * The price of the stock at the close of the given time frame (top or bottom of the fill depending on the color, more below)
+  * 5 - Color
+    * Green / Hollow / Empty
+      * 3/4 The open was lower than the close, it opened at the bottom and closed at the top (price went up)   
+    * Red / Black / Full
+      * 3/4 The open was higher than the close, it opened at the bottom and closed at the top (price went down)
+* Example 
+  * ![CandlestickOverview](docs/Candlestick-overview.jpg)
+
+
+### STRAT PART 1 - Candles and Pricing Action
   * 1 Candle
     * Names: 
       * 1 Candle / Inside Bar / Inside Action / Consolidation / Sideways
@@ -45,7 +80,9 @@ There are two major parts to TheSTRAT
       * Never trade a mother bar, price discovery is happening, wait for further confirmation one way or anther
     * Example:
       * ![StratCheatSheet1](docs/ThreeBar.jpg)
-### Other Factors
+
+
+### STRAT PART 2 - Other Factors
 * Time Frame Continuity
   * Price direction is best determined when looking at multiple time frames rather than lagging indicators or moving averages
   * When all time frames point in the same direction in either direction, or Full Time Frame Continuity, is the ideal trading situation
@@ -64,7 +101,8 @@ There are two major parts to TheSTRAT
   * Directional bars and outside bars that fit into a triangle and ultimately lead to reversals or expansions and present trading opportunities
   * Picture: 
     * ![StratCheatSheet1](docs/BF_Sample.jpg)
-### Actionable Signals
+
+### START PART 3 - Actionable Signals
 * Hammer
   * Candle that looks like a "hammer"
   * Little to no top wick, open and close are very close to the top of the wick, 75% of the candle is mostly wick at the bottom
@@ -83,7 +121,8 @@ There are two major parts to TheSTRAT
   * Inside bar (explained above)
   * Action: 
     * After price is done consolidating it will break up or down, take the break at the top or the bottom of the previous inside candle depending on which way it goes  
-### Misc
+
+### STRAT PART 4 - Misc
 * PMG - Pivot Machine Gun
   * A very fast moving upwards or downwards candles taking out previous highs or previous lows
   * As the prior candles are "taken out" it causes those investors to go the other way, reinforcing the direction of the bar even more taking out even more highs or lows
