@@ -159,6 +159,8 @@ Before beginning you have to have a basic understanding of candlesticks.  Candle
 |AS       |Actionable Signal                             |A "signal" to take an action                                                                                            |
 |ATR      |Average True Range                            |Volatility indicator -  a wedge or triangle shape of the recent candles                                                 |
 |BF       |Broadening Formation                          |A compound 3 bar - higher highs - lower lows - subjectively drawn                                                       |
+|BMO      |Before Market Opensn                          |Usually a term used for when earnings come out in the AM before the market opens
+              |
 |DTL      |Down trend line (magic lines)                 |Trending down on the magic broadening formation trendline                                                               |
 |EMA      |Exponential moving Average                    |type of moving average that places a greater weight and significance on the most recent data points                     |
 |EOD      |End of Day                                    |End of the stock trading day 4PM EST                                                                                    |
