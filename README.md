@@ -147,6 +147,9 @@ Before beginning you have to have a basic understanding of candlesticks.  Candle
 #### Candlestick Cheat Sheet
 ![CandleStickCheatSheet](docs/CandleStickCheatSheet.jpeg)
 
+#### Kicking Patterns
+![KickingPatterns](KickingPatterns.jpeg)
+
 
 ## Acronyms and Terms
 |TERM     |MEANING                                       |DESCRIPTION                                                                                                             |
